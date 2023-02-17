@@ -1,1 +1,1 @@
-# Scipts-basicos-en-bioinformatica
+# Scipts-en-bioinformatica
